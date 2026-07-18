@@ -1,0 +1,9 @@
+KPI,Value,Interpretation
+Artist Concentration Index (HHI),0.0116 (115.9/10000),"Low concentration - highly competitive, no single dominant artist"
+Unique Artist Count,361,361 distinct artists charted over 555 days
+Playlist Concentration Ratio (Top 5),15.3%,Top 5 artists hold this share of total chart-artist-slots
+Diversity Score,0.0130,Higher = more diverse artist pool per chart entry
+Collaboration Ratio,17.8%,Share of tracks that are multi-artist collaborations
+Explicit Content Share,32.0%,Share of tracks flagged explicit
+Single vs Album Ratio,0.66,Singles per album-type track charting
+Content Variety Index,51.5/100,"Composite variety across artists, formats, and content type"
