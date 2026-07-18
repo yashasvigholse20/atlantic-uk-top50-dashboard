@@ -1,6 +1,7 @@
 # 🇬🇧 Atlantic UK Top 50 — Structural & Cultural Analysis
 
 **Live Dashboard:** [atlantic-uk-top50-dashboard.streamlit.app](https://atlantic-uk-top50-dashboard.streamlit.app/)
+![Dashboard Preview](assets/dashboard_preview.png)
 
 A structural and cultural analysis of the UK Top 50 music chart, built for **Atlantic Recording Corporation** as part of an Industrial Internship Program (Unified Mentor). The project analyzes 555 daily Top 50 snapshots to uncover artist dominance patterns, collaboration dynamics, content composition, and release strategy — informing UK-specific signing, marketing, and release decisions rather than assuming US market behavior applies.
 
