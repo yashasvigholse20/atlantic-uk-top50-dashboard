@@ -1,6 +1,7 @@
 # 🇬🇧 Atlantic UK Top 50 — Structural & Cultural Analysis
 
 **Live Dashboard:** [atlantic-uk-top50-dashboard.streamlit.app](https://atlantic-uk-top50-dashboard.streamlit.app/)
+
 ![Dashboard Preview](assets/dashboard_preview.png)
 
 A structural and cultural analysis of the UK Top 50 music chart, built for **Atlantic Recording Corporation** as part of an Industrial Internship Program (Unified Mentor). The project analyzes 555 daily Top 50 snapshots to uncover artist dominance patterns, collaboration dynamics, content composition, and release strategy — informing UK-specific signing, marketing, and release decisions rather than assuming US market behavior applies.
@@ -113,34 +114,3 @@ streamlit run app.py
 ---
 
 ## 📁 Repository Structure
-
-```
-├── app.py                             # Streamlit dashboard
-├── requirements.txt                   # Python dependencies
-├── atlantic_uk_final.csv              # Cleaned, validated dataset
-├── atlantic_uk_exploded.csv           # Artist-level exploded dataset
-├── artist_dominance_summary.csv       # Artist leaderboard with origin tags
-├── collaboration_network_edges.csv    # Weighted collaboration network edges
-├── kpi_summary.csv                    # Final KPI roll-up table
-└── README.md
-```
-
----
-
-## 📄 Deliverables
-
-- [x] Data validation & cleaning pipeline
-- [x] Full structural analysis (7 phases)
-- [x] Interactive Streamlit dashboard (deployed)
-- [ ] Research paper (EDA, insights, recommendations)
-- [ ] Executive summary
-
----
-
-## 🎓 Context
-
-Built as part of the **Industrial Internship Program** with **Unified Mentor**, MBA Business Analytics track.
-
-## 📜 License
-
-This project is for educational and internship purposes.
