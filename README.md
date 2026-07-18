@@ -2,7 +2,7 @@
 
 **Live Dashboard:** [atlantic-uk-top50-dashboard.streamlit.app](https://atlantic-uk-top50-dashboard.streamlit.app/)
 
-![Dashboard Preview](dashboard_preview (2).png)
+![Dashboard Preview](dashboard_preview%20(2).png)
 
 A structural and cultural analysis of the UK Top 50 music chart, built for **Atlantic Recording Corporation** as part of an Industrial Internship Program (Unified Mentor). The project analyzes 555 daily Top 50 snapshots to uncover artist dominance patterns, collaboration dynamics, content composition, and release strategy — informing UK-specific signing, marketing, and release decisions rather than assuming US market behavior applies.
 
