@@ -114,3 +114,31 @@ streamlit run app.py
 ---
 
 ## 📁 Repository Structure
+├── app.py                             # Streamlit dashboard
+├── requirements.txt                   # Python dependencies
+├── atlantic_uk_final.csv              # Cleaned, validated dataset
+├── atlantic_uk_exploded.csv           # Artist-level exploded dataset
+├── artist_dominance_summary.csv       # Artist leaderboard with origin tags
+├── collaboration_network_edges.csv    # Weighted collaboration network edges
+├── kpi_summary.csv                    # Final KPI roll-up table
+└── README.md
+
+---
+
+## 📄 Deliverables
+
+- [x] Data validation & cleaning pipeline
+- [x] Full structural analysis (7 phases)
+- [x] Interactive Streamlit dashboard (deployed)
+- [ ] Research paper (EDA, insights, recommendations)
+- [ ] Executive summary
+
+---
+
+## 🎓 Context
+
+Built as part of the **Industrial Internship Program** with **Unified Mentor**, MBA Business Analytics track.
+
+## 📜 License
+
+This project is for educational and internship purposes.
